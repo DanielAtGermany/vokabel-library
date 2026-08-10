@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "id": "franzoesisch",
+      "name": "Französisch",
+      "books": [
+        {
+          "id": "buch_5",
+          "name": "Buch 5",
+          "path": "franzoesisch/buch_5",
+          "pages": [
+            {
+              "page": 102,
+              "file": "franzoesisch/buch_5/seite_102.json"
+            },
+            {
+              "page": 103,
+              "file": "franzoesisch/buch_5/seite_103.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "englisch",
+      "name": "Englisch",
+      "books": [
+        {
+          "id": "buch_5",
+          "name": "Buch 5",
+          "path": "englisch/buch_5",
+          "pages": [
+            {
+              "page": 102,
+              "file": "englisch/buch_5/seite_102.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
