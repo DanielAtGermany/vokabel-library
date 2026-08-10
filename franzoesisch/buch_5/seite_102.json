@@ -2,12 +2,16 @@
   "page": 102,
   "vocabulary": [
     {
-      "foreign": "to learn",
+      "foreign": "apprendre",
       "german": "lernen"
     },
     {
-      "foreign": "to succeed",
+      "foreign": "réussir",
       "german": "erfolgreich sein"
+    },
+    {
+      "foreign": "pourtant",
+      "german": "trotzdem"
     }
   ]
 }
